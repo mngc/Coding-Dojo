@@ -18,7 +18,7 @@
 ## About this Dojo
 
 There are many great websites which contains a lot of problems that can be solved in a codo dojo, however, I didn't find one that really suit my ideas so I created this one. 
-I wanted to create a template for coding katas for 'c#' that are easy to use that´ll take you no time to set it up to your needs or ideas. 
+I wanted to create a template for coding katas that are easy to use and that´ll take you no time to set it up to your needs or ideas. 
 
 Here's why:
 * Your time should be focused on creating something amazing. 
