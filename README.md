@@ -1,7 +1,27 @@
 # Coding-Dojo
 This repository contains a list of code katas to be used in a coding dojo.
 
-# Source
+## What is a Coding Dojo?
+
+> A Coding Dojo is a meeting where a bunch of coders get together, code, learn, and have fun.
+> 
+> Emily Bache
+
+## About this Dojo
+
+There are many great websites which contains a lot of problems that can be solved in a codo dojo, however, I didn't find one that really suit my ideas so I created this one. 
+I wanted to create a template for coding katas for 'c#' that are easy to use that´ll take you no time to set it up to your needs or ideas. 
+
+Here's why:
+* Your time should be focused on creating something amazing. 
+* A project that solves a problem, helps others.
+* You shouldn't be doing the same tasks over and over like creating a projects with unit tests from scratch.
+* You should element DRY principles to the rest of your life :smile:
+* Coding is fun :smile:
+
+I'll be adding more katas in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+
+# Sources
 All the katas displayed in this list are taken from the book
 
 > The Coding Dojo Handbook,
