@@ -1,5 +1,13 @@
 # Coding-Dojo
-This repository contains a list of code katas to be used in a coding dojo.
+<br />
+<p align="center">
+  <a href="https://github.com/eduardoperez-ng/Coding-Dojo">
+    <img src="dojo.png" alt="dojo" width="350" height="250">
+  </a>
+  <p align="center">
+    An awesome list of katas!
+  </p>
+</p>
 
 ## What is a Coding Dojo?
 
@@ -22,7 +30,7 @@ Here's why:
 I'll be adding more katas in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 # Sources
-All the katas displayed in this list are taken from the book
+Some of the katas displayed in this list are taken from the book
 
 > The Coding Dojo Handbook,
 > a practical guide to creating a space where good programmers can become great programmers. By 
