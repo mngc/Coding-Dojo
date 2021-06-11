@@ -44,3 +44,5 @@ Some of the katas displayed in this list are taken from the book
 4. [Kata-Tennis-Refactoring](https://github.com/eduardoperez-ng/Kata-Tennis-Refactoring)
 5. [Kata-PrimeFactors](https://github.com/eduardoperez-ng/Kata-Prime-Factors)
 6. [Kata-MVP](https://github.com/eduardoperez-ng/Kata-MVP)
+7. [Kata-Yatzy](https://github.com/eduardoperez-ng/Kata-Yatzy)
+8. [Kata-Yatzy-Refactoring](https://github.com/eduardoperez-ng/Kata-Yatzy-Refactoring)
