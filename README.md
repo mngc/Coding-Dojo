@@ -47,3 +47,4 @@ Some of the katas displayed in this list are taken from the book
 7. [Kata-Yatzy](https://github.com/eduardoperez-ng/Kata-Yatzy)
 8. [Kata-Yatzy-Refactoring](https://github.com/eduardoperez-ng/Kata-Yatzy-Refactoring)
 9. [Kata-Roman-Numerals](https://github.com/eduardoperez-ng/Kata-Roman-Numerals)
+10. [Kata-Health-Bars](https://github.com/eduardoperez-ng/Unity_Health_Bars_With_TDD)
